@@ -1,5 +1,5 @@
 # 2019 nCoV Articles Compilation
-As a result of an epidemic outbreak of new coronavirus (2019-nCoV) 80 people in China reportedly dead as of 27/1/2020 ([CNN](https://edition.cnn.com/asia/live-news/coronavirus-outbreak-01-27-20-intl-hnk/index.html)) and the virus keep spreading. This repository compiles research articles available on the internet immediately after the outbreak happen to make it easier for us to understand the situation.
+As a result of an epidemic outbreak of new coronavirus (2019-nCoV) 80 people in China reportedly dead as of 27/1/2020 ([CNN](https://edition.cnn.com/asia/live-news/coronavirus-outbreak-01-27-20-intl-hnk/index.html)) and the virus keep spreading. This repository compiles research articles available on the internet after the outbreak happen just to help the reader find it easily when they search it online.
 If you have infromation about new research articles regarding 2019-nCoV, please update this list and/or send a pull request.
 
 | No | Date | Title | Author | Link | DOI |
